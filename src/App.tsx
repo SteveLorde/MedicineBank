@@ -10,7 +10,7 @@ export default function App() {
   return (
     <>
 
-        <div className={"flex flex-col flex-wrap gap-4"}>
+        <div>
             <BotWindow />
             <InputBar />
         </div>
